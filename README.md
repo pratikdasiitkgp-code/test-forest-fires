@@ -2,14 +2,14 @@
 
 
 
-To run flask application 
+To run a Flask application 
 
 ```
-python app.py
+python application.py
 ```
 
 
-To access your flask application open new tab in and paste the url:
+To access your Flask application, open a new tab and paste the URL:
 ```
 https://http://10.145.161.214:5000/predictdata
 ```
